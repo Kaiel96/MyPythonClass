@@ -1,0 +1,2 @@
+from new import *
+print x + y
